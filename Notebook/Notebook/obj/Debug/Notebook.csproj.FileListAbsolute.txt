@@ -1,0 +1,12 @@
+F:\CSharp\CSharpBase\Notebook\Notebook\bin\Debug\Notebook.exe
+F:\CSharp\CSharpBase\Notebook\Notebook\bin\Debug\Notebook.pdb
+F:\CSharp\CSharpBase\Notebook\Notebook\obj\Debug\Notebook.csprojResolveAssemblyReference.cache
+F:\CSharp\CSharpBase\Notebook\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+F:\CSharp\CSharpBase\Notebook\Notebook\obj\Debug\Notebook.csproj.GenerateResource.Cache
+F:\CSharp\CSharpBase\Notebook\Notebook\obj\Debug\Notebook.exe
+F:\CSharp\CSharpBase\Notebook\Notebook\obj\Debug\Notebook.pdb
+F:\CSharp\CSharpBase\Notebook\Notebook\bin\Debug\Notebook.exe.config
+F:\CSharp\CSharpBase\Notebook\Notebook\bin\Debug\Newtonsoft.Json.dll
+F:\CSharp\CSharpBase\Notebook\Notebook\bin\Debug\Newtonsoft.Json.pdb
+F:\CSharp\CSharpBase\Notebook\Notebook\bin\Debug\Newtonsoft.Json.xml
+F:\CSharp\CSharpBase\Notebook\Notebook\obj\Debug\Notebook.MainForm.resources
